@@ -5,7 +5,7 @@ namespace EmployeeWageProgram
     {
         public static void Main(string[] args)
         {
-            EmployeeWage employeeWage = new EmployeeWage();
+            EmpWagesOfMonth employeeWage = new EmployeeWageProgram();
             employeeWage.EmpSwichCase();
         }
     }
